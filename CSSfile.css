@@ -1,0 +1,47 @@
+body {
+    width: 75%;
+    max-width: 880px;
+    margin: auto;
+
+    background: url(1163116.png) center;
+
+    font-family: Ubuntu;
+    line-height: 1.5;
+    color: #fff
+}
+
+main {
+    background: #293762;
+    padding: 20px 40px;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+
+.logo{
+    text-align: center;
+}
+.Titulo{
+    text-align: center;
+}
+.Subtitulo{
+    text-align: center;
+}
+.texto{
+    text-align: center;
+}
+
+
+
+
+.update{
+    font-family: Yanone Kaffeesatz;
+    text-align: center;
+}
+
+.Data{
+    text-align: center;
+}
+
+.botão{
+    text-align: center;
+}

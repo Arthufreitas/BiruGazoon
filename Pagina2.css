@@ -1,0 +1,18 @@
+body{
+    width: 75;
+    max-width: 880px;
+    margin: auto;
+
+    font-family: Ubuntu;
+    color: white;
+    text-align: center;
+
+    background: url(1163116.png) center;
+}
+
+main{
+    background: #29376291;
+    padding: 30px;
+    margin-top: 20px;
+    border-radius: 50px;
+}

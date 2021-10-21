@@ -1,0 +1,10 @@
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+PARA VOCÊ ABRIR O SITE, BASTA CLICAR COM O BOTÃO DIREITO NO ARQUIVO Meu primeiro site. DEPOIS CLIQUE EM Abrir com,
+E ESCOLHA O NAVEGADOR DE SUA PREFERENCIA
+-------------------------------------------------------------------------------------------------------------------
+
+ANTES DE TUDO ISSO CRIE UMA PASTA COM O NOME "Meu primeiro site" E COLOQUE TUDO DENTRO
